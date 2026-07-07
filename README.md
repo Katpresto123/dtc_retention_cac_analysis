@@ -56,7 +56,8 @@ ground the analysis in today's reality.
 
 *Source: First Page Sage, based on $47M in managed DTC ad spend*
 
-### PLAYBOOK - What to do about it by category
+
+## Playbook - What to do about it by category
 
 **🐾 Pet (CAC: ~£18 | Breaks even at 15% retention by month 8)**
 Low CAC means you can acquire aggressively. Focus energy on months 2-3 — 
