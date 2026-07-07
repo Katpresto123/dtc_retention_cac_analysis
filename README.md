@@ -56,6 +56,36 @@ ground the analysis in today's reality.
 
 *Source: First Page Sage, based on $47M in managed DTC ad spend*
 
+### PLAYBOOK - What to do about it by category
+
+**🐾 Pet (CAC: ~£18 | Breaks even at 15% retention by month 8)**
+Low CAC means you can acquire aggressively. Focus energy on months 2-3 — 
+get a second purchase fast and the payback math works in your favor.
+- Post-purchase email sequence with complementary products
+- Subscription nudge at reorder window (food/treats especially)
+- Loyalty points from first purchase
+
+**💄 Beauty (CAC: ~£33 | Needs 20%+ retention to break even in 12 months)**
+You're one bad acquisition month away from CAC that never pays back.
+- First 30 days are critical — onboarding sequence, how-to content, replenishment reminders
+- Bundle first purchase to increase AOV and compress payback timeline
+- Earned loyalty tier after second purchase to lock in behavior
+
+**🍔 Food (CAC: ~£40 | Needs 25%+ retention to break even in 12 months)**
+Subscription is your best friend. One-time buyers are expensive.
+- Default to subscription at checkout with easy pause/cancel (reduces friction objection)
+- Reorder reminder before they run out — timing is everything in consumables
+- Win-back sequence at day 45 if no second purchase
+
+**💊 Supplements (CAC: ~£70 | Needs 40% retention just to break even in 12 months)**
+The math is brutal without a subscription model. At industry average retention of 28.2% 
+you are losing money on every customer for the entire first year.
+- Subscription-first business model — one-time purchase pricing should be meaningfully 
+  higher to reflect true acquisition cost
+- 90-day supply bundles to extend reorder window and improve margins
+- Results-based content to justify continued purchase (before/after, education)
+- At-risk trigger at day 60 with a personal outreach or survey
+
 ## Tech Stack
 - Python 3.12
 - pandas, numpy
